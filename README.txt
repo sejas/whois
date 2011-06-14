@@ -8,3 +8,13 @@ Read the result
 
 Problems:
 The whois server don't allow too much querys to the same IP
+
+
+
+
+--
+Comandos git
+  git add -A
+  git commit -m 'first commit'
+  git remote add origin git@github.com:antoniosejas/whois.git
+  git push -u origin master
